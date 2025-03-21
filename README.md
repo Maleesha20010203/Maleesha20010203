@@ -2,7 +2,7 @@
 <h3 align="center"><i>Passionate Front-End Developer | Innovator | Tech Explorer</i></h3>
 
 <p align="center">
-  <img src="https://cdn.iconscout.com/lottie/free/preview/female-web-developer-4563721_3817229.json" alt="Female Web Developer Animation" width="250" />
+  <img src="https://raw.githubusercontent.com/7oSkaaa/7oSkaaa/refs/heads/main/Images/about_me.gif" width="250" />
 </p>
 
 <p align="center">
